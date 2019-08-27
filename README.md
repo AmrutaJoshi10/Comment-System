@@ -17,4 +17,4 @@ Similarly, if you want to update your DB you will have to write :
 update-database
 Each time you add any new entry in your database you will have to update your database.
 
-To understand this project properly, you will have to see my previous project named CourseApp.Demo which is based on ASP.NET core MVC. 
+To understand this project properly, you will have to see my previous project named CourseApp which is based on ASP.NET core MVC. 
